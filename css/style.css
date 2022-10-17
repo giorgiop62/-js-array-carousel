@@ -13,6 +13,7 @@ main {
 .container {
   width: 50%;
   height: 50%;
+  position: relative;
 
 }
 
@@ -29,5 +30,7 @@ main {
   text-align: center;
   line-height: 25px;
   cursor: pointer;
+  color: white;
+  position: absolute;
 }
 
